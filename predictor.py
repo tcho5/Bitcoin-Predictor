@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 10 18:39:12 2018
 
-@author: Daniel Lee
-"""
 #import pandas as pd
 from FileParser import FileParser
 
