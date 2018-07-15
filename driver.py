@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 11 10:22:35 2018
 
-@author: Daniel Lee
-"""
 from GUI import MyGUI
 import predictor
 from Graph import Graph
