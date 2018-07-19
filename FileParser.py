@@ -1,9 +1,4 @@
-     # -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 10 21:48:35 2018
 
-@author: Daniel Lee
-"""
 import pandas as pd
 import webScraper
 
